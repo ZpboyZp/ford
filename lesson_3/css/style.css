@@ -1,0 +1,13 @@
+@import url(reset.css);
+h1,
+h2{ 
+	color: blueviolet;
+}
+div.comp{ color: brown;}
+div.history { color: green;}
+div.own { color: red;}
+div.doing { color: yellow;}
+div.mer { color: powderblue;}
+div.rus { color: purple;}
+div.sp { color: lawngreen;}
+div.crit { color: darkgrey;}
